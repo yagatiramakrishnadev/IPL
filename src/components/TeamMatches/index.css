@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #13418b;
+  height: 100vh;
+  overflow: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+.banner {
+  height: 40vh;
+  margin: 10px;
+  border-radius: 10px;
+}

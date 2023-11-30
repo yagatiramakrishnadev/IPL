@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.heading {
+  color: #ffff;
+  font-family: 'Bree Serif';
+  text-align: left;
+}
+.match-card {
+  background-color: #1e293b;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+.details {
+  color: #ffff;
+  font-family: 'Bree Serif';
+  font-size: 20px;
+}
+.div {
+  margin: 10px;
+}
+.date {
+  color: #ffff;
+  font-family: 'Bree Serif';
+}
+.logo {
+  height: 20vh;
+}
